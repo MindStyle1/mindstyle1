@@ -32,35 +32,21 @@ I like building structured interfaces, reusable components and stable systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,js,ts,go,linux" />
+<img src="https://iconic-api.onrender.com/dark/angular" width="70px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="70px" />
+<img src="https://iconic-api.onrender.com/dark/ts" width="70px" />
+<img src="https://iconic-api.onrender.com/dark/go" width="70px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="70px" />
 
 </div>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Angular</b></td>
-    <td align="center"><b>JavaScript</b></td>
-    <td align="center"><b>TypeScript</b></td>
-  </tr>
-  <tr>
-    <td align="center">Frontend apps</td>
-    <td align="center">Web core</td>
-    <td align="center">Typed code</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Go</b></td>
-    <td align="center"><b>Arch Linux</b></td>
-    <td align="center"><b>Linux</b></td>
-  </tr>
-  <tr>
-    <td align="center">Backend basics</td>
-    <td align="center">Daily system</td>
-    <td align="center">Dev workflow</td>
-  </tr>
-</table>
+<div align="center">
 
+`ANGULAR` · `JAVASCRIPT` · `TYPESCRIPT` · `GO` · `ARCH LINUX` · `LINUX`
+
+</div>
 ---
 
 ## 📊 GitHub Analytics
