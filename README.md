@@ -1,23 +1,44 @@
-## Hi there 👋
+<div align="center">
 
+# MindStyle
 
-## 📈 GitHub Stats
+Frontend Developer focused on Angular ecosystem  
+Building clean architecture and scalable applications
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MindStyle1&show_icons=true&theme=tokyonight)
+<br>
 
-<!--
-**MindStyle1/mindstyle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=angular,js,ts,go,linux" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🛠 Stack
 
+```txt
+ANGULAR
+JAVASCRIPT
+TYPESCRIPT
+GO
+ARCH LINUX
+LINUX
+```
+
+---
+
+## ⚡ About Me
+
+- Angular ecosystem
+- Reactive architecture
+- Clean UI and reusable components
+- REST API integration
+- Linux / Arch Linux user
+
+## 📫 Contacts
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t2aa4)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mind.style11@gmail.com)
+
+</div>
