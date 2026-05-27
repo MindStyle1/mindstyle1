@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=MindStyle&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Angular;TypeScript+%2F+JavaScript;Go;Arch+Linux" />
@@ -45,9 +41,9 @@ I like building structured interfaces, reusable components and stable systems.
 
 <div align="center">
 
-`ANGULAR` · `JAVASCRIPT` · `TYPESCRIPT` · `GO` · `ARCH LINUX` · `LINUX`
+`ANGULAR` · `JAVASCRIPT` · `TYPESCRIPT` · `GO` · `ARCH LINUX` 
 
 </div>
----
+
 
 
