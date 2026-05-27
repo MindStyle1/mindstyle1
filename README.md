@@ -31,12 +31,14 @@ I like building structured interfaces, reusable components and stable systems.
 ## 🛠 Tech Stack
 
 <div align="center">
-
-<img src="https://iconic-api.onrender.com/dark/angular" width="70px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="70px" />
-<img src="https://iconic-api.onrender.com/dark/ts" width="70px" />
-<img src="https://iconic-api.onrender.com/dark/go" width="70px" />
-<img src="https://iconic-api.onrender.com/dark/linux" width="70px" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" />
+</p>
 
 </div>
 
