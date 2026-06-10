@@ -1,10 +1,12 @@
 <div align="center">
 
+/*
 # MindStyle
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Angular;TypeScript+%2F+JavaScript;Go;Arch+Linux" />
 
 <br><br>
+*/ 
 
 <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
