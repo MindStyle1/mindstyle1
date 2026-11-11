@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://t.me/t2aa4">
-  <img src="https://img.shields.io/badge/TELEGRAM-@t2aa4-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/TELEGRAM-@waystroke-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="mailto:mind.style11@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-mind.style11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
