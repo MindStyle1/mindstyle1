@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 1690 1200 125" role="img">
+<rect x="0" y="1690" width="1200" height="125" fill="#202624"/>
+<!-- One shared twelve-column grid, divided into independently linked sections. -->
+<g fill="none" stroke="#a4b3a7" stroke-width="1" opacity="0.09"><line x1="60" y1="1690" x2="60" y2="1815" />
+<line x1="150" y1="1690" x2="150" y2="1815" />
+<line x1="240" y1="1690" x2="240" y2="1815" />
+<line x1="330" y1="1690" x2="330" y2="1815" />
+<line x1="420" y1="1690" x2="420" y2="1815" />
+<line x1="510" y1="1690" x2="510" y2="1815" />
+<line x1="600" y1="1690" x2="600" y2="1815" />
+<line x1="690" y1="1690" x2="690" y2="1815" />
+<line x1="780" y1="1690" x2="780" y2="1815" />
+<line x1="870" y1="1690" x2="870" y2="1815" />
+<line x1="960" y1="1690" x2="960" y2="1815" />
+<line x1="1050" y1="1690" x2="1050" y2="1815" />
+<line x1="1140" y1="1690" x2="1140" y2="1815" /></g>
+<g fill="none" stroke="#a4b3a7" stroke-width="1.5" opacity="0.38"></g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="420" y="1770" fill="#f0f0e8" font-size="34" font-weight="500">Email</text><line x1="420" y1="1780" x2="505" y2="1780" stroke="#f0f0e8" stroke-width="1.5"/></g>
+</svg>
