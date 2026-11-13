@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="925" viewBox="0 0 600 925" role="img">
-<rect x="0" y="0" width="600" height="925" fill="#f3f1e9"/>
+<rect x="0" y="0" width="600" height="925" fill="#eeeae0"/>
 <!-- One shared twelve-column grid, divided into independently linked sections. -->
-<g fill="none" stroke="#64736a" stroke-width="1" opacity="0.09"><line x1="30" y1="0" x2="30" y2="925" />
+<g fill="none" stroke="#757766" stroke-width="1" opacity="0.15"><line x1="30" y1="0" x2="30" y2="925" />
 <line x1="75" y1="0" x2="75" y2="925" />
 <line x1="120" y1="0" x2="120" y2="925" />
 <line x1="165" y1="0" x2="165" y2="925" />
@@ -14,11 +14,11 @@
 <line x1="480" y1="0" x2="480" y2="925" />
 <line x1="525" y1="0" x2="525" y2="925" />
 <line x1="570" y1="0" x2="570" y2="925" /></g>
-<g fill="none" stroke="#64736a" stroke-width="1.5" opacity="0.38"><line x1="30" y1="509" x2="570" y2="509" />
+<g fill="none" stroke="#757766" stroke-width="1.5" opacity="0.47"><line x1="30" y1="509" x2="570" y2="509" />
 <line x1="30" y1="924" x2="570" y2="924" /></g>
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="30" y="145" fill="#242a28" font-size="104" font-weight="650" letter-spacing="-3">Creative</text><text x="30" y="260" fill="#242a28" font-size="104" font-weight="650" letter-spacing="-3">Frontend</text><text x="30" y="352" fill="#4f5a54" font-size="29" font-weight="500">Focus</text><text x="210" y="352" fill="#242a28" font-size="31" font-weight="500">Web Applications</text>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="30" y="145" fill="#242a28" font-size="104" font-weight="650" letter-spacing="-3">Creative</text><text x="30" y="260" fill="#242a28" font-size="104" font-weight="650" letter-spacing="-3">Frontend</text><text x="30" y="352" fill="#5d6251" font-size="29" font-weight="500">Focus</text><text x="210" y="352" fill="#242a28" font-size="31" font-weight="500">Web Applications</text>
 <text x="210" y="400" fill="#242a28" font-size="31" font-weight="500">AI Engineering</text>
-<text x="210" y="448" fill="#242a28" font-size="31" font-weight="500">Interactive Experiences</text><text x="30" y="580" fill="#4f5a54" font-size="29" font-weight="500">Profile</text><text x="30" y="647" fill="#242a28" font-size="32" font-weight="400">I build web applications and</text>
+<text x="210" y="448" fill="#242a28" font-size="31" font-weight="500">Interactive Experiences</text><text x="30" y="580" fill="#5d6251" font-size="29" font-weight="500">Profile</text><text x="30" y="647" fill="#242a28" font-size="32" font-weight="400">I build web applications and</text>
 <text x="30" y="694" fill="#242a28" font-size="32" font-weight="400">backend integrations, with over</text>
 <text x="30" y="741" fill="#242a28" font-size="32" font-weight="400">two years of commercial</text>
 <text x="30" y="788" fill="#242a28" font-size="32" font-weight="400">experience. My current focus is</text>
