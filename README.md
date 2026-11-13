@@ -1,20 +1,20 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-grid-dark.svg">
+  <img src="./assets/editorial-grid-light.svg" alt="MindStyle1 — Frontend Engineering, Applied AI, Creative Development" width="100%">
+</picture>
 
-<img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+Frontend engineer with over two years of commercial development experience. I work on web applications, backend integration and AI-assisted development, with an interest in AI integrations and visually expressive interfaces.
 
-<br><br>
+### Selected work
 
-<a href="https://t.me/t2aa4">
-  <img src="https://img.shields.io/badge/TELEGRAM-@waystroke-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:mind.style11@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-mind.style11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**[Siverno](https://siverno.ru/)** — Engineering practice for software systems, AI integrations and automation.
 
-</div>
+**[WayNet](https://waynet.online/)** — VPN service for phones and computers.
 
+**[Waystroke](https://waystroke.online/)** — Creative web studio for design and development.
 
+### Tools & practice
+
+**Frontend** — Angular, TypeScript<br>**Backend** — PHP, Go, PostgreSQL<br>**Environment** — Arch Linux<br>**Workflow** — AI-assisted development
+
+[Telegram](https://t.me/t2aa4) · [Email](mailto:mind.style11@gmail.com)
