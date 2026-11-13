@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-grid-dark.svg">
-  <img src="./assets/editorial-grid-light.svg" alt="Frontend engineering — web applications, applied AI and creative development" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/frontend-grid-dark.svg">
+  <img src="./assets/frontend-grid-light.svg" alt="Frontend engineering — web applications, applied AI and creative development" width="100%">
 </picture>
 
 Frontend engineer with over two years of commercial development experience. I work on web applications, backend integration and AI-assisted development, with an interest in AI integrations and visually expressive interfaces.
