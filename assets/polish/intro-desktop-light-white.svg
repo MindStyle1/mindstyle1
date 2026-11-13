@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="685" viewBox="0 0 1200 685" role="img">
+<rect x="0" y="0" width="1200" height="685" fill="#FFFFFF" />
+
+<g fill="none" stroke="#757766" stroke-width="1" opacity="0.075"><line x1="60" y1="0" x2="60" y2="685" />
+<line x1="150" y1="0" x2="150" y2="685" />
+<line x1="240" y1="0" x2="240" y2="685" />
+<line x1="330" y1="0" x2="330" y2="685" />
+<line x1="420" y1="0" x2="420" y2="685" />
+<line x1="510" y1="0" x2="510" y2="685" />
+<line x1="600" y1="0" x2="600" y2="685" />
+<line x1="690" y1="0" x2="690" y2="685" />
+<line x1="780" y1="0" x2="780" y2="685" />
+<line x1="870" y1="0" x2="870" y2="685" />
+<line x1="960" y1="0" x2="960" y2="685" />
+<line x1="1050" y1="0" x2="1050" y2="685" />
+<line x1="1140" y1="0" x2="1140" y2="685" /></g>
+<g fill="none" stroke="#757766" stroke-width="1.5" opacity="0.55"><line x1="60" y1="375" x2="1140" y2="375" />
+<line x1="60" y1="684" x2="1140" y2="684" /></g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="60" y="173" fill="#242a28" font-size="150" font-weight="650" letter-spacing="-5">Creative</text><text x="60" y="335" fill="#242a28" font-size="150" font-weight="650" letter-spacing="-5">Frontend</text><text x="780" y="137" fill="#515748" font-size="27" font-weight="500">Focus</text><text x="780" y="200" fill="#242a28" font-size="31" font-weight="500">Web Applications</text>
+<text x="780" y="253" fill="#242a28" font-size="31" font-weight="500">AI Engineering</text>
+<text x="780" y="306" fill="#242a28" font-size="31" font-weight="500">Interactive Experiences</text><text x="60" y="450" fill="#515748" font-size="27" font-weight="500">Profile</text><text x="420" y="450" fill="#242a28" font-size="32" font-weight="400">I build web applications and backend</text>
+<text x="420" y="497" fill="#242a28" font-size="32" font-weight="400">integrations, with over two years of</text>
+<text x="420" y="544" fill="#242a28" font-size="32" font-weight="400">commercial experience. My current</text>
+<text x="420" y="591" fill="#242a28" font-size="32" font-weight="400">focus is AI engineering and expressive</text>
+<text x="420" y="638" fill="#242a28" font-size="32" font-weight="400">digital interfaces.</text></g>
+</svg>
