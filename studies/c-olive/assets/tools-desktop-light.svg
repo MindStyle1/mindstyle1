@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 1195 1200 370" role="img">
+<rect x="0" y="1195" width="1200" height="370" fill="#e7eae2"/>
+<!-- One shared twelve-column grid, divided into independently linked sections. -->
+<g fill="none" stroke="#68786c" stroke-width="1" opacity="0.17"><line x1="60" y1="1195" x2="60" y2="1565" />
+<line x1="150" y1="1195" x2="150" y2="1565" />
+<line x1="240" y1="1195" x2="240" y2="1565" />
+<line x1="330" y1="1195" x2="330" y2="1565" />
+<line x1="420" y1="1195" x2="420" y2="1565" />
+<line x1="510" y1="1195" x2="510" y2="1565" />
+<line x1="600" y1="1195" x2="600" y2="1565" />
+<line x1="690" y1="1195" x2="690" y2="1565" />
+<line x1="780" y1="1195" x2="780" y2="1565" />
+<line x1="870" y1="1195" x2="870" y2="1565" />
+<line x1="960" y1="1195" x2="960" y2="1565" />
+<line x1="1050" y1="1195" x2="1050" y2="1565" />
+<line x1="1140" y1="1195" x2="1140" y2="1565" /></g>
+<g fill="none" stroke="#68786c" stroke-width="1.5" opacity="0.50"><line x1="60" y1="1564" x2="1140" y2="1564" /></g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"><text x="60" y="1275" fill="#536159" font-size="27" font-weight="500">Tools &amp; Practice</text><text x="420" y="1275" fill="#536159" font-size="29" font-weight="500">Frontend</text><text x="690" y="1275" fill="#242a28" font-size="31" font-weight="400">Angular, TypeScript</text><text x="420" y="1340" fill="#536159" font-size="29" font-weight="500">Backend</text><text x="690" y="1340" fill="#242a28" font-size="31" font-weight="400">PHP, Go, PostgreSQL</text><text x="420" y="1405" fill="#536159" font-size="29" font-weight="500">Environment</text><text x="690" y="1405" fill="#242a28" font-size="31" font-weight="400">Arch Linux</text><text x="420" y="1470" fill="#536159" font-size="29" font-weight="500">Workflow</text><text x="690" y="1470" fill="#242a28" font-size="31" font-weight="400">AI-assisted Development</text></g>
+</svg>
